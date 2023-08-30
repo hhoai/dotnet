@@ -1,0 +1,15 @@
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\bin\Debug\tiendien.exe.config
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\bin\Debug\tiendien.exe
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\bin\Debug\tiendien.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\MainWindow.g.cs
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\App.g.cs
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien_MarkupCompile.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien_MarkupCompile.lref
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\MainWindow.baml
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.g.resources
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.Properties.Resources.resources
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.csproj.GenerateResource.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.exe
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\wpf\bai1\tiendien\obj\Debug\tiendien.pdb

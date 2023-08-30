@@ -1,0 +1,7 @@
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\bin\Debug\bai2-class.exe.config
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\bin\Debug\bai2-class.exe
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\bin\Debug\bai2-class.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\obj\Debug\bai2-class.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\obj\Debug\bai2-class.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\obj\Debug\bai2-class.exe
+C:\Users\TGDD\Desktop\KTLT\C#\bai5-class\bai2-class\obj\Debug\bai2-class.pdb

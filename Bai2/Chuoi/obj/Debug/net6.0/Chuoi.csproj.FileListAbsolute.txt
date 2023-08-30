@@ -1,0 +1,15 @@
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.exe
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.deps.json
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.runtimeconfig.json
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.dll
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfoInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfo.cs
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.dll
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\refint\Chuoi.dll
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.genruntimeconfig.cache
+C:\Users\TGDD\Desktop\KTLT\C#\Bai2\Chuoi\obj\Debug\net6.0\ref\Chuoi.dll

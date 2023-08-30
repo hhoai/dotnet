@@ -1,0 +1,7 @@
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\TGDD\Desktop\KTLT\C#\XuanThuLab\CS07\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

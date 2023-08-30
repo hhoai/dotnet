@@ -1,0 +1,15 @@
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\bin\Debug\net6.0\VD2.exe
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\bin\Debug\net6.0\VD2.deps.json
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\bin\Debug\net6.0\VD2.runtimeconfig.json
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\bin\Debug\net6.0\VD2.dll
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\bin\Debug\net6.0\VD2.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.csproj.AssemblyReference.cache
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.AssemblyInfoInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.AssemblyInfo.cs
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.dll
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\refint\VD2.dll
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.pdb
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\VD2.genruntimeconfig.cache
+C:\Users\TGDD\Desktop\KTLT\C#\BT_buoi1\VD2\obj\Debug\net6.0\ref\VD2.dll
